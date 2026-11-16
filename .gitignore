@@ -1,4 +1,5 @@
 # Project exclude paths
+.idea
 /.gradle/
 /Bulls and Cows/task/build/
 /build/
