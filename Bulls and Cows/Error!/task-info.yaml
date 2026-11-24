@@ -1,5 +1,4 @@
 type: edu
-custom_name: Error!
 files:
   - name: src/bullscows/Main.java
     visible: true
@@ -7,5 +6,5 @@ files:
   - name: test/BullsCowsTest.java
     learner_created: false
 feedback_link: https://hyperskill.org/projects/53/stages/293/implement#comment
-status: Unchecked
+status: Solved
 record: -1

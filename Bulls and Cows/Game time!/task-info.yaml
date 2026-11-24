@@ -1,11 +1,14 @@
 type: edu
-custom_name: Game time!
 files:
   - name: src/bullscows/Main.java
     visible: true
     learner_created: false
   - name: test/BullsCowsTest.java
+    visible: true
     learner_created: false
 feedback_link: https://hyperskill.org/projects/53/stages/290/implement#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 23 Nov 2026 09:53:58 UTC"
 record: -1
